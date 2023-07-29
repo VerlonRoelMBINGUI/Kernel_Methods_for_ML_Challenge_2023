@@ -2,7 +2,8 @@
 In this project, we propose many kernels methods from scratch for DNA Sequence classification.
 Team name: Bourbaki's KM_Team
 
-This project was done in collaboration with [Dieu-Donne Fangnon]([https://pages.github.com/](https://github.com/dfangnon))
+This project was done in collaboration with [Dieu-Donne Fangnon](https://github.com/dfangnon)
+
 The  [link]( https://www.kaggle.com/competitions/kernel-methods-ammi-2023)  brings you to the hackathon website
 
 The goal of the data challenge is to learn how to implement machine learning algorithms, gain understanding about them and adapt them to structural data.
