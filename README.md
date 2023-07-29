@@ -22,4 +22,4 @@ We design 4 kernels models:
 * SVM with  Spectrum Kernels
 * SVM with Gaussian Kernel
 
-We obtained a private score of0.67600 on the leaderboard and ranked 2nd at the end of the competition.
+We obtained a private score of 0.67600 on the leaderboard and ranked 2nd at the end of the competition.
