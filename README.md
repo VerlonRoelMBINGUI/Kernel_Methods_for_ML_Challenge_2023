@@ -13,9 +13,11 @@ Transcription factors (TFs) are regulatory proteins that bind specific sequence 
 Genome-wide protein-DNA binding maps can be profiled using some experimental techniques and thus all genomics can be classified into two classes for a TF of interest: bound or unbound.
 In this challenge, we will work with three datasets corresponding to three different TFs.
 
-We design 5 kernels models:
+We design 4 kernels models:
 
 * SVM with Sum of many Mismatch Kernels 
 * SVM with  Mismatch Kernels
 * SVM with  Spectrum Kernels
 * SVM with Gaussian Kernel
+
+We obtained a private score of0.67600 on the leaderboard and ranked 2nd at the end of the competition.
