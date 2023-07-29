@@ -1,5 +1,6 @@
 # AMMI_Kernel_Methods_for_ML_Challenge_2023
 In this project, we propose many kernels methods from scratch for DNA Sequence classification.
+
 Team name: Bourbaki's KM_Team
 
 This project was done in collaboration with [Dieu-Donne Fangnon](https://github.com/dfangnon)
@@ -7,6 +8,7 @@ This project was done in collaboration with [Dieu-Donne Fangnon](https://github.
 The  [link]( https://www.kaggle.com/competitions/kernel-methods-ammi-2023)  brings you to the hackathon website
 
 The goal of the data challenge is to learn how to implement machine learning algorithms, gain understanding about them and adapt them to structural data.
+
 For this reason, we have chosen a sequence classification task: predicting whether a DNA sequence region is binding site to a specific transcription factor.
 
 Transcription factors (TFs) are regulatory proteins that bind specific sequence motifs in the genome to activate or repress transcription of target genes.
