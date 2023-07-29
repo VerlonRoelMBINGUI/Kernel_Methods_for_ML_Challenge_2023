@@ -2,8 +2,8 @@
 In this project, we propose many kernels methods from scratch for DNA Sequence classification.
 Team name: Bourbaki's KM_Team
 
-This project was done in collaboration with Dieu-Donne FANGNON
-The https://www.kaggle.com/competitions/kernel-methods-ammi-2023  brings you to the hackathon website
+This project was done in collaboration with [Dieu-Donne Fangnon]([https://pages.github.com/](https://github.com/dfangnon))
+The  [link]( https://www.kaggle.com/competitions/kernel-methods-ammi-2023)  brings you to the hackathon website
 
 The goal of the data challenge is to learn how to implement machine learning algorithms, gain understanding about them and adapt them to structural data.
 For this reason, we have chosen a sequence classification task: predicting whether a DNA sequence region is binding site to a specific transcription factor.
@@ -13,13 +13,8 @@ Genome-wide protein-DNA binding maps can be profiled using some experimental tec
 In this challenge, we will work with three datasets corresponding to three different TFs.
 
 We design 5 kernels models:
-\begin{enumerate}
 
-\item KernelSVM
-\end{enumerate}
-
-KernelSVM + Optuna + Crossvalidation
-Kernel Ridge Regression + Optuna + Crossvalidation
-Kernel Logistic Regression + Optuna + Crossvalidation
-Kernel Spectrum with SVM
-Kernel Mismatch with SVM
+* SVM with Sum of many Mismatch Kernels 
+* SVM with  Mismatch Kernels
+* SVM with  Spectrum Kernels
+* SVM with Gaussian Kernel
